@@ -1,0 +1,9 @@
+.heading {
+    font-size: xx-large;
+    letter-spacing: 0.2cm;
+}
+.whitebg {
+    background-color: white;
+    border-radius: 10px;
+    border: solid black;
+}

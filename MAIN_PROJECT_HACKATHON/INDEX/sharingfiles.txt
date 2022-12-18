@@ -1,0 +1,14 @@
+//paste in css
+.link{
+    font-size: 60px;
+    text-decoration: none;
+    background-color: rgb(255, 224, 224);
+    border: 2px solid   firebrick;
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(242, 109, 109);
+    cursor: pointer;
+    margin-left:580px;
+}
+//paste in class in html
+<a class="link" href="info.html">CLICK Here</a>

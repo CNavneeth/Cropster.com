@@ -1,0 +1,67 @@
+.bg {
+  background-image: url('backgroundimg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sub{
+  color:rgb(141, 57, 71);
+  font-style: italic;
+  margin-top: 20px;
+  font-size: 50px;
+}
+.main{
+  background-color: rgb(239, 239, 230);
+  width:800px;
+  margin-left: 300px;
+  margin-top: 20px;
+  border-radius: 1000px;
+  border: solid rgb(17, 79, 10);
+
+}
+.divbg{
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+  width:250px;
+  height:200px;
+  margin-left: 620px;
+  border-radius: 100px;
+}
+.sub1{
+  margin-left: 450px;
+}
+.sub3{
+  margin-left: 1080px;
+}
+.font{
+  color: rgb(6, 67, 1);
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 250px;
+  background-color: white;
+  width: 1000px;
+  border-radius: 100px;
+  border: solid rgb(0, 124, 15);
+}
+.link{
+  font-size: 25px;
+  text-decoration: none;
+  background-color: rgb(241, 237, 237);
+  border-radius: 10px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  margin-left:690px;
+}
+.link:hover{
+  background-color: lightgreen;
+}
+.font1{
+  color: rgb(6, 67, 1);
+  font-size: 25px;
+  font-style: italic;
+  margin-left: 530px;
+  background-color: white;
+  width: 420px;
+  border-radius: 100px;
+  border: solid rgb(0, 124, 15);
+}
