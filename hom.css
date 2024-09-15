@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.tt{
+    font-size: 40px;
+    align-items: center;
+}
+.main{
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+}
