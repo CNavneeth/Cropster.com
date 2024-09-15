@@ -1,6 +1,6 @@
 # Cropster.com
 
-![Cropster.com Screenshot](./.png)
+![Cropster.com Screenshot](./cropster.png)
 
 ## Overview
 
