@@ -38,6 +38,5 @@ Make sure you have the following installed:
 ## Authors
 
 - [CNavneeth](https://github.com/CNavneeth)
-## CoAuthor
 - [Shrikara P S Nakshatri](https://github.com/Nakshatri24)
 
